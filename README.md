@@ -6,5 +6,7 @@ npm install
 index.js
 ## contenu
 package readline
+## Utilisation
+permet de poser des questions et de repondre
 ## Ateur
 Kakeu
